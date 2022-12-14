@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707635198283",
+    "project_id": "attendance-system-ebed4",
+    "storage_bucket": "attendance-system-ebed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707635198283:android:d9036df0de84c18b4550ce",
+        "android_client_info": {
+          "package_name": "com.example.interiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707635198283-p21ee72dttpcv83fh6jdcj56kn5acvh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tef4dJposzLKy5EnXH-YUxs-v82t088"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707635198283-p21ee72dttpcv83fh6jdcj56kn5acvh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
