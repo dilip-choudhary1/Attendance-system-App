@@ -47,8 +47,9 @@ dependencies:
   cloud_firestore: ^4.2.0
   get: ^4.6.5
   camera: ^0.10.0+4
-  firebase_livestream_ml_vision: ^1.0.1
-  firebase_ml_vision: ^0.9.10
+  google_ml_kit: ^0.13.0
+  # firebase_livestream_ml_vision: ^1.0.1
+  # firebase_ml_vision: ^0.9.10
   
 
 
